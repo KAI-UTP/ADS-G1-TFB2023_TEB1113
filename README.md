@@ -1,6 +1,6 @@
 # ADS-G1-TFB2023 TEB1113 – Algorithms & Data Structures
 
-**Chan Li Kai | 22010900
+Chan Li Kai | 22010900
 
 ---
 
